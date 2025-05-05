@@ -14,13 +14,11 @@ Mỗi project thường bao gồm các phần sau:
 * Phân tích dữ liệu khám phá (EDA)
 * Làm sạch và tiền xử lý dữ liệu
 * Trực quan hóa bằng matplotlib / seaborn / plotly
-* Xây dựng mô hình machine learning nhẹ (Hồi quy tuyến tính, Cây quyết định, v.v.)
+* Xây dựng mô hình machine learning (Hồi quy tuyến tính, Cây quyết định, v.v.)
 * Đánh giá mô hình bằng các chỉ số như MAE, RMSE, Accuracy
 
 ## Mục tiêu
-
 Các project này được thực hiện trong quá trình học trên lớp, tham gia khóa học online hoặc tự học.
-Chúng thể hiện khả năng của mình trong việc:
 
 * Phân tích và hiểu các bộ dữ liệu phức tạp
 * Truyền tải insight thông qua hình ảnh trực quan
@@ -36,7 +34,7 @@ Mỗi thư mục chứa một notebook và (nếu có) phần tóm tắt ngắn 
 
 ## mục tiêu trong tương lai
 
-mình vẫn đang không ngừng mở rộng kiến thức, đặc biệt trong các lĩnh vực như:
+Không ngừng mở rộng kiến thức, đặc biệt trong các lĩnh vực như:
 
 * Kỹ thuật xây dựng đặc trưng (Feature engineering)
 * Tối ưu hóa mô hình
