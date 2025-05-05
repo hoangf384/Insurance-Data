@@ -1,7 +1,7 @@
 # Data Projects Portfolio
 (*english below*)
 
-Chào mừng bạn đến với **Danh mục Dự án Phân tích Dữ liệu** của mình!
+Chào mừng bạn đến với repo của mình!
 Kho lưu trữ này là tập hợp các project mình đã thực hiện trong suốt quá trình học tập và rèn luyện kỹ năng về phân tích dữ liệu và machine learning. Mỗi project phản ánh sự tiến bộ của mình trong việc thực hiện **phân tích dữ liệu khám phá (EDA)**, **tiền xử lý dữ liệu**, và áp dụng các mô hình machine learning cơ bản cho các bài toán **dự đoán** và **phân loại**.
 
 ## Nội dung chính
